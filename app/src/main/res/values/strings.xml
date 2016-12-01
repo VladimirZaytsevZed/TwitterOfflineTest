@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TwitterTestTask</string>
+    <string name="timeline">Timeline</string>
+    <string name="db">database</string>
+    <string name="sync">sync</string>
+    <string name="clear">Clear</string>
+    <string name="sync_in_progress">Sync in progress. Please wait</string>
+    <string name="logout">Logout</string>
+    <string name="update">Update</string>
+</resources>
